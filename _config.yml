@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Treat Template
+title: Robyn's Recipes
 url: "https://spring-bat.cloudvent.net/"
 baseurl:
 google_analytics_key:
@@ -30,8 +30,7 @@ paginate_path: "/:num/"
 permalink: pretty
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
@@ -46,13 +45,11 @@ defaults:
         featured_image:
           width: 1560
           height: 2000
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "default"
-  -
-    scope:
+  - scope:
       path: "index.html"
     values:
       layout: "default"
