@@ -3,7 +3,7 @@ date: 2019-09-24
 title: General Tso's Chicken
 categories:
   - Dinners
-featured_image: /images/generalTsos.jpg
+featured_image: /images/generalTsosChicken.jpg
 recipe:
   servings: 5
   prep: 30 minutes
