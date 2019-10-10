@@ -2,8 +2,6 @@
 
 ## Develop
 
-Treat was built with [Jekyll](http://jekyllrb.com/) version 3.4.3, but should support newer versions as well.
-
 Install the dependencies with [Bundler](http://bundler.io/):
 
 ```bash
