@@ -1,6 +1,6 @@
 ---
 date: 2019-10-09
-title: Veggie Pot Pie
+title: Vegetable Pot Pie
 categories:
   - Vegetarian
 featured_image: /images/veggiePotPie.jpg
