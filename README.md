@@ -23,3 +23,9 @@ To generate the complete static site locally in the \_site folder, run:
 ```bash
 $ bundle exec jekyll build
 ```
+
+To deploy to production and push to all remotes, run:
+
+```bash
+$ ./deploy.sh
+```
