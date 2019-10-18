@@ -10,10 +10,10 @@ recipe:
   cook: 30 to 40 mins
   total: 3 - 4 hours
   ingredients_markdown: |-
-    
+
     * 1 cup warm water
-    * 1 teapsoon
-    * 2 1/2 - 3 1/2 Flour (305g)
+    * 1 teapsoon Kosher salt
+    * 2 1/2 - 3 cups flour (305g)
     * 1/2 tablespoon instant yeast
 
   directions_markdown: |-
@@ -30,4 +30,3 @@ recipe:
     10. Bake the bread for 25 to 35 minutes, until it's a deep, golden brown.
     11. Remove the bread from the oven, and cool it on a rack. Store leftover bread in a plastic bag at room temperature.
 ---
-
