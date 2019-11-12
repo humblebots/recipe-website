@@ -2,15 +2,15 @@
 # Site
 
 title: Robyn's Recipes
-url: "https://spring-bat.cloudvent.net/"
+url: "https://"robyn.recipes
 baseurl:
 google_analytics_key: UA-151349815-1
 newsletter_action:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: Food blog template for Jekyll.
+logo: /logo.svg
+description: Robyn's Food Blog
 author:
   name:
   email:
@@ -18,7 +18,7 @@ author:
 social:
   name: Treat Template
   links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+    - https://github.com/humblebots/recipe-website
 
 # -----
 # Build
