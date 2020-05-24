@@ -1,12 +1,28 @@
 ---
 layout: 
 ---
-[
+{% assign all_categories = site.categories %}
+{% assign category_names = "" | split: ',' %}
+
+{% for item in all_categories %}
+    {% assign category_names = category_names | push: item[0] %}
+{% endfor %}
+
+{
+    "about": {
+        "name"      : "{{ site.author.name }}",
+        "email"     : "{{ site.author.email }}",
+        "location"  : "{{ site.author.location }}",
+        "twitter"   : "{{ site.author.twitter }}",
+        "bio"       : "{{ site.author.bio }}"
+    },
+    "categories": {{ category_names | split: "," }},
+    "recipes": [
 	{% for post in site.posts %}{
             "id"                : "{{ post.id }}",            
             "title"             : "{{ post.title | escape }}",
-            "categories"        : "{{ post.categories }}",
-            "featured_image"    : "{{ site.url }}{{ post.featured_image}}",
+            "categories"        : "{{ post.categories | split: "," }}",
+            "featured_image"    : "{{ site.url }}{{ post.featured_image }}",
             "url"               : "{{ post.url }}",
             "path"              : "{{ post.path }}",
             "next"              : "{{ post.next.id }}",
@@ -26,4 +42,5 @@ layout:
             }
       }{% if forloop.last %}{% else %},{% endif %}
 	{% endfor %}
-]
+    ]
+}
