@@ -5,7 +5,7 @@ categories:
     - Sweets
 featured_image: /images/lemonCakes.jpeg
 recipe:
-  servings: 2 9-inch pizzas
+  servings: about 46 mini cakes
   prep: 15 minutes
   cook: 12 minutes per pan
   ingredients_markdown: |-
