@@ -16,12 +16,12 @@ layout:
         "twitter"   : "{{ site.author.twitter }}",
         "bio"       : "{{ site.author.bio }}"
     },
-    "categories": {{ category_names | split: "," }},
+    "categories": {{ category_names | jsonify }},
     "recipes": [
 	{% for post in site.posts %}{
             "id"                : "{{ post.id }}",            
             "title"             : "{{ post.title | escape }}",
-            "categories"        : "{{ post.categories | split: "," }}",
+            "categories"        : {{ post.categories | jsonify }},
             "featured_image"    : "{{ site.url }}{{ post.featured_image }}",
             "url"               : "{{ post.url }}",
             "path"              : "{{ post.path }}",
@@ -29,16 +29,16 @@ layout:
             "previous"          : "{{ post.previous.id }}",
             "date"              : "{{ post.date }}",
             "shortdate"         : "{{ post.date | date : '%B %d, %Y' }}",
-            "content"           : "{{ post.content | strip | uri_escape }}",
-            "excerpt"           : "{{ post.excerpt | strip | uri_escape }}",
+            "content"           : {{ post.content | jsonify }},
+            "excerpt"           : {{ post.excerpt | jsonify }},
             "recipe"            : {
                 "servings"              : "{{ post.recipe.servings }}",
                 "prep"                  : "{{ post.recipe.prep }}",
                 "cook"                  : "{{ post.recipe.cook }}",
                 "total"                 : "{{ post.recipe.total }}",
-                "ingredients_markdown"  : "{{ post.recipe.ingredients_markdown | strip | uri_escape }}",
-                "directions_markdown"   : "{{ post.recipe.ingredients_markdown | strip | uri_escape }}",
-                "notes"                 : "{{ post.recipe.ingredients_markdown | strip | uri_escape }}"
+                "ingredients_markdown"  : {{ post.recipe.ingredients_markdown | jsonify }},
+                "directions_markdown"   : {{ post.recipe.ingredients_markdown | jsonify }},
+                "notes"                 : {{ post.recipe.ingredients_markdown | jsonify }}
             }
       }{% if forloop.last %}{% else %},{% endif %}
 	{% endfor %}
