@@ -48,21 +48,17 @@ layout: default
   </div>
   {% endif %}
 
-  <!-- <div class="sharing">
+  <div class="sharing">
     {% assign share_url = page.url | absolute_url | cgi_escape %}
-    <a
+    <!-- <a
       class="facebook"
       href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}"
       >{% include social-icon.html icon="Facebook" %}</a
-    >
-    <a
-      class="twitter"
-      href="https://twitter.com/intent/tweet?url={{
+    > -->
+    <a class="twitter" href="https://twitter.com/intent/tweet?url={{
         share_url
-      }}&amp;text=I'm%20going%20to%20this%20event!"
-      >{% include social-icon.html icon="Twitter" %}</a
-    >
-    <a class="instagram" href="https://instagram.com"
+      }}&amp;text=I'm%20going%20to%20this%20event!">{% include social-icon.html icon="Twitter" %}</a>
+    <!-- <a class="instagram" href="https://instagram.com"
       >{% include social-icon.html icon="Instagram" %}</a
     >
     <a
@@ -78,8 +74,8 @@ layout: default
         share_url
       }}"
       >{% include social-icon.html icon="Email" %}</a
-    >
-  </div> -->
+    > -->
+  </div>
 
   <div class="cta">
     <h2>More delicious recipes</h2>
@@ -92,11 +88,11 @@ layout: default
   <div id="disqus_thread"></div>
   <script>
     var disqus_shortname = "{{ site.disqus_shortname }}";
-    var disqus_config = function() {
+    var disqus_config = function () {
       this.page.url = "{{ page.url | prepend: site.url }}";
       this.page.identifier = "{{ page.id }}";
     };
-    (function() {
+    (function () {
       // DON'T EDIT BELOW THIS LINE
       var d = document,
         s = d.createElement("script");
@@ -105,28 +101,18 @@ layout: default
       (d.head || d.body).appendChild(s);
     })();
   </script>
-  <noscript
-    >Please enable JavaScript to view the
-    <a href="https://disqus.com/?ref_noscript" rel="nofollow"
-      >comments powered by Disqus.</a
-    ></noscript
-  >
+  <noscript>Please enable JavaScript to view the
+    <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
   {% endif %}
 </article>
 
-<script
-  type="text/javascript"
-  src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"
-></script>
-<script
-  type="text/javascript"
-  src="{{ site.baseurl }}/js/jquery.imgPin.min.js"
-></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/js/jquery.imgPin.min.js"></script>
 <script>
-  $(function() {
+  $(function () {
     $(".post img").imgPin();
 
-    $("a[href*=\\#]").on("click", function(event) {
+    $("a[href*=\\#]").on("click", function (event) {
       var el = $(this.hash);
       if (el.length > 0) {
         event.preventDefault();

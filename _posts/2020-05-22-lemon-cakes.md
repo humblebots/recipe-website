@@ -1,11 +1,11 @@
 ---
-date: 2020-05-23
-title: Lemon Cakes
+date: 2020-05-22
+title: 
 categories:
     - Sweets
 featured_image: /images/lemonCakes.jpeg
 recipe:
-  servings: 48 little cakes
+  servings: 2 9-inch pizzas
   prep: 15 minutes
   cook: 12 minutes per pan
   ingredients_markdown: |-
@@ -31,4 +31,4 @@ recipe:
     4. With fingers, dip the cupcakes into the glaze while they're still warm, covering as much of the cake as possible, or spoon the glaze over the warm cupcakes, turning them to completely coat. Place on wire racks with waxed paper underneath to catch any drips. Let the glaze set thoroughly, at least an hour, before storing in containers with tight-fitting lids.
 ---
 
-These are always a hit whenever I make them, and they are pretty simple! 
+Brick oven pizza is my favorite type of pizza, but like most I don't have a brick oven to make this pizza! This is pretty darn close and can be done in a standard home oven.
