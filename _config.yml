@@ -12,9 +12,14 @@ disqus_shortname:
 logo: /logo.svg
 description: Robyn's Food Blog
 author:
-  name:
+  name: Robyn MacCallum
   email:
+  location: Florida
   twitter: MacCallumRobyn
+  bio: >-
+    I grew up in Florida, and gained my love for cooking from a culinary program
+    I attended in high school. Although I work as a Software Engineer, cooking
+    and baking remain among my favorite hobbies.
 social:
   name: Treat Template
   links:

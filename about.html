@@ -3,14 +3,14 @@ title: About
 ---
 
 <div class="editable">
-  <h1>About</h1>
+    <h1>About</h1>
 
-  <p>I'm Robyn MacCallum and welcome to my food blog.</p>
+    <p>I'm
+        {{ site.author.name }}
+        and welcome to my food blog.</p>
 
-  <p>
-    I grew up in Florida, and gained my love for cooking from a culinary program
-    I attended in high school. Although I work as a Software Engineer, cooking
-    and baking remain among my favorite hobbies.
-  </p>
-  <img alt="Making some cupcakes!" src="/images/meBaking.jpg" />
+    <p>
+        {{ site.author.bio }}
+    </p>
+    <img alt="Making some cupcakes!" src="/images/meBaking.jpg"/>
 </div>
