@@ -31,4 +31,5 @@ recipe:
     4. With fingers, dip the cupcakes into the glaze while they're still warm, covering as much of the cake as possible, or spoon the glaze over the warm cupcakes, turning them to completely coat. Place on wire racks with waxed paper underneath to catch any drips. Let the glaze set thoroughly, at least an hour, before storing in containers with tight-fitting lids.
 ---
 
-Brick oven pizza is my favorite type of pizza, but like most I don't have a brick oven to make this pizza! This is pretty darn close and can be done in a standard home oven.
+These are always a hit whenever I make them, and they are pretty simple! 
+
