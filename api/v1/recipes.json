@@ -37,8 +37,8 @@ layout:
                 "cook"                  : "{{ post.recipe.cook }}",
                 "total"                 : "{{ post.recipe.total }}",
                 "ingredients_markdown"  : {{ post.recipe.ingredients_markdown | jsonify }},
-                "directions_markdown"   : {{ post.recipe.ingredients_markdown | jsonify }},
-                "notes"                 : {{ post.recipe.ingredients_markdown | jsonify }}
+                "directions_markdown"   : {{ post.recipe.directions_markdown | jsonify }},
+                "notes"                 : {{ post.recipe.notes | jsonify }}
             }
       }{% if forloop.last %}{% else %},{% endif %}
 	{% endfor %}
