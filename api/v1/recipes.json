@@ -29,16 +29,16 @@ layout:
             "previous"          : "{{ post.previous.id }}",
             "date"              : "{{ post.date }}",
             "shortdate"         : "{{ post.date | date : '%B %d, %Y' }}",
-            "content"           : {{ post.content | strip_html | jsonify }},
-            "excerpt"           : {{ post.excerpt | strip_html | jsonify }},
+            "content"           : {{ post.content | strip_html | jsonify | strip }},
+            "excerpt"           : {{ post.excerpt | strip_html | jsonify | strip }},
             "recipe"            : {
                 "servings"              : "{{ post.recipe.servings }}",
                 "prep"                  : "{{ post.recipe.prep }}",
                 "cook"                  : "{{ post.recipe.cook }}",
                 "total"                 : "{{ post.recipe.total }}",
-                "ingredients_markdown"  : {{ post.recipe.ingredients_markdown | strip_html | jsonify }},
-                "directions_markdown"   : {{ post.recipe.directions_markdown | strip_html | jsonify }},
-                "notes"                 : {{ post.recipe.notes | strip_html | jsonify }}
+                "ingredients_markdown"  : {{ post.recipe.ingredients_markdown | strip_html | jsonify | strip }},
+                "directions_markdown"   : {{ post.recipe.directions_markdown | strip_html | jsonify | strip }},
+                "notes"                 : {{ post.recipe.notes | strip_html | jsonify | strip }}
             }
       }{% if forloop.last %}{% else %},{% endif %}
 	{% endfor %}
