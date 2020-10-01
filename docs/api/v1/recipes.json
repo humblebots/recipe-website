@@ -1,0 +1,386 @@
+
+
+
+
+
+{
+    "about": {
+        "name"      : "Robyn MacCallum",
+        "email"     : "",
+        "location"  : "Florida",
+        "twitter"   : "MacCallumRobyn",
+        "bio"       : "I grew up in Florida, and gained my love for cooking from a culinary program I attended in high school. Although I work as a Software Engineer, cooking and baking remain among my favorite hobbies."
+    },
+    "categories": ["Dinners","Baking","Vegetarian","Sweets"],
+    "recipes": [
+	{
+            "id"                : "/sweets/2020/05/22/lemon-cakes",            
+            "title"             : "Lemon Cakes",
+            "categories"        : ["Sweets"],
+            "featured_image"    : "https://robyn.recipes/images/lemonCakes.jpeg",
+            "url"               : "/sweets/2020/05/22/lemon-cakes/",
+            "path"              : "_posts/2020-05-22-lemon-cakes.md",
+            "next"              : "",
+            "previous"          : "/sweets/2019/12/17/marshmallows",
+            "date"              : "2020-05-22 00:00:00 +0000",
+            "shortdate"         : "May 22, 2020",
+            "content"           : "These are always a hit whenever I make them, and they are pretty simple!\n\n",
+            "excerpt"           : "These are always a hit whenever I make them, and they are pretty simple!\n",
+            "recipe"            : {
+                "servings"              : "about 46 mini cakes",
+                "prep"                  : "15 minutes",
+                "cook"                  : "12 minutes per pan",
+                "total"                 : "",
+                "ingredients_markdown"  : "\n**Cakes:**\n* 1 package (15 - 18.5 oz) yellow cake mix\n* 1 box (3.5 oz) lemon pudding mix\n* 4 large eggs\n* 3/4 cup vegetable oil\n\n**Glaze:**\n* 4 cups powdered (confectioners) sugar\n* 1/3 cup of fresh lemon juice (about 3 lemons)\n* 2 lemons, zested\n* 3 tablespoons vegetable oil\n* 3 tablespoons water",
+                "directions_markdown"   : "\n1. Preheat oven to 350 degrees\n2. Spray miniature muffin tins with vegetable oil cooking spray. Combine the cake mix, pudding mix, eggs and oil and blend well with an electric mixer until smooth, about 2 minutes. Pour a small amount of batter, filling each muffin tin half way. Bake for 11 - 12 minutes. Turn out onto a tea towel.\n3. To make the glaze, sift the sugar into a mixing bowl. Add the lemon juice, zest, oil, and 3 tablespoons water. Mix with a spoon until smooth.\n4. With fingers, dip the cupcakes into the glaze while they're still warm, covering as much of the cake as possible, or spoon the glaze over the warm cupcakes, turning them to completely coat. Place on wire racks with waxed paper underneath to catch any drips. Let the glaze set thoroughly, at least an hour, before storing in containers with tight-fitting lids.",
+                "notes"                 : ""
+            }
+      },
+	{
+            "id"                : "/sweets/2019/12/17/marshmallows",            
+            "title"             : "Marshmallows",
+            "categories"        : ["Sweets"],
+            "featured_image"    : "https://robyn.recipes/images/marshmallows.jpg",
+            "url"               : "/sweets/2019/12/17/marshmallows/",
+            "path"              : "_posts/2019-12-17-marshmallows.md",
+            "next"              : "/sweets/2020/05/22/lemon-cakes",
+            "previous"          : "/baking/2019/11/11/gruyère-Leek-quiche",
+            "date"              : "2019-12-17 00:00:00 +0000",
+            "shortdate"         : "December 17, 2019",
+            "content"           : "These are super fun and easy to make, and come out tasting so much ‘fresher’\n\n\nYou can toast these over a fire or with a kitchen torch if a fire isn’t readily available\n",
+            "excerpt"           : "These are super fun and easy to make, and come out tasting so much ‘fresher’\n\n",
+            "recipe"            : {
+                "servings"              : "about 24",
+                "prep"                  : "20 minutes",
+                "cook"                  : "10 minutes",
+                "total"                 : "",
+                "ingredients_markdown"  : "\n* 3 packages of unflavored gelatin\n* 1 1/2 cups granulated sugar\n* 1 cup of light corn syrup\n* 1/4 teaspoon salt\n* 1 tablespoon of vanilla extract\n* Powdered sugar, for dusting",
+                "directions_markdown"   : "\n1. Combine the gelatin and 1/2 cup of cold water in the bowl of an electric mixer fitted with the whisk attachment and allow to sit while you make the syrup.\n2. Meanwhile, combine the sugar, corn syrup, salt, and 1/2 cup water in a small saucepan and cook over medium heat until the sugar dissolves. Raise the heat to high and cook until the syrup reaches 240 degrees on a candy thermometer. Remove from the heat.\n3. With the mixer on low speed, slowly pour the sugar syrup into the dissolved gelatin. Put the mixer on high speed and whip until the mixture is very thick, about 15 minutes. Add the vanilla and mix thoroughly.\n4. With a sieve, generously dust an 8 by 12-inch nonmetal baking dish with confectioners' sugar. Pour the marshmallow mixture into the pan, smooth the top, and dust with more confectioners' sugar. Allow to stand uncovered overnight until it dries out.\n5. Turn the marshmallows onto a board and cut them in squares. Dust them with more confectioners' sugar.",
+                "notes"                 : "\nMake sure the candy thermometer is submerged but also not touching the bottom of the pan to ensure accurate temperature readings.\n\n"
+            }
+      },
+	{
+            "id"                : "/baking/2019/11/11/gruyère-Leek-quiche",            
+            "title"             : "Gruyère and Leek Quiche",
+            "categories"        : ["Baking"],
+            "featured_image"    : "https://robyn.recipes/images/leekQuicheSlices.jpg",
+            "url"               : "/baking/2019/11/11/gruy%C3%A8re-Leek-quiche/",
+            "path"              : "_posts/2019-11-11-gruyère-Leek-quiche.md",
+            "next"              : "/sweets/2019/12/17/marshmallows",
+            "previous"          : "/baking/2019/11/11/flaky-quiche-crust",
+            "date"              : "2019-11-11 00:00:00 +0000",
+            "shortdate"         : "November 11, 2019",
+            "content"           : "I love looking for a reason to use leeks, and the gruyère in this recipe is a great compliment to the leeks. This is also a great dinner for those looking for more vegetarian options.\n\n\nCook the leeks in butter or olive oil to soften them.\n\n\nThis quiche ends up being jam packed of goodness! Make sure to spread all of the ingredients as evenly as possible.\n\n\nMake sure you let the quiche rest after baking. This makes it easier to pull out of the quiche pan.\n",
+            "excerpt"           : "I love looking for a reason to use leeks, and the gruyère in this recipe is a great compliment to the leeks. This is also a great dinner for those looking for more vegetarian options.\n\n",
+            "recipe"            : {
+                "servings"              : "6 slices",
+                "prep"                  : "45 minutes",
+                "cook"                  : "30 minutes",
+                "total"                 : "",
+                "ingredients_markdown"  : "\n* 3 large leeks, about 1 1/2 to 1 3/4 pounds, white and light green part only\n* 2 tablespoons extra virgin olive oil \n* 1 garlic clove, minced (optional)\n* 2 egg yolks\n* 1 whole egg\n* 1 quiche crust [(Recipe)](https://robyn.recipes/baking/2019/11/11/flaky-quiche-crust/)\n* Freshly ground pepper to taste\n* ¾ cup milk (2% or regular)\n* 3-4 ounces Gruyère, grated (3/4 cup tightly packed)",
+                "directions_markdown"   : "\n1. Chop the leeks into small pieces. Rinse any lingering dirt off of the leeks that appears while chopping them; I throw them in a colander and toss them around under running water.\n2. Preheat the oven to 350 degrees. Heat the oil or oil and butter over medium heat in a lidded skillet or saucepan and add the leeks and a pinch of salt. Cook gently, stirring, until they begin to soften. Turn the heat to medium-low, cover and cook gently until the leeks are very soft but not browned, stirring often, 10 to 15 minutes. If they begin to stick or brown, add a little more salt and/or a spoonful of water or wine. Stir in the garlic if using and cook for another 30 seconds to a minute, until fragrant.\n3. Beat together the egg yolks and egg in a medium bowl. Set the tart pan on a baking sheet to allow for easy handling. Using a pastry brush lightly brush the bottom of the crust and place in the oven for 10 minutes. Remove from the oven and set aside.\n4. Add salt (about 1/2 teaspoon), pepper and the milk to the eggs and whisk together. Spread the leeks in an even layer in the crust. Sprinkle the cheese in an even layer on top. Pour in the custard filling. Place in the oven and bake for 30 minutes, or until set and just beginning to color on the top.\n5. Remove from the oven and allow to sit for at least 15 minutes before serving.",
+                "notes"                 : ""
+            }
+      },
+	{
+            "id"                : "/baking/2019/11/11/flaky-quiche-crust",            
+            "title"             : "Flaky Quiche Crust",
+            "categories"        : ["Baking"],
+            "featured_image"    : "https://robyn.recipes/images/quiche_crust.jpg",
+            "url"               : "/baking/2019/11/11/flaky-quiche-crust/",
+            "path"              : "_posts/2019-11-11-flaky-quiche-crust.md",
+            "next"              : "/baking/2019/11/11/gruyère-Leek-quiche",
+            "previous"          : "/sweets/2019/11/11/buttercream",
+            "date"              : "2019-11-11 00:00:00 +0000",
+            "shortdate"         : "November 11, 2019",
+            "content"           : "This is a quick all-butter quiche crust that you can fill with something yummy! I highly recommend using a food processor to cut the butter into the crust, but a pastry cutter and some elbow grease can be substituted!\n",
+            "excerpt"           : "This is a quick all-butter quiche crust that you can fill with something yummy! I highly recommend using a food processor to cut the butter into the crust, but a pastry cutter and some elbow grease can be substituted!\n",
+            "recipe"            : {
+                "servings"              : "1 crust",
+                "prep"                  : "10 minutes",
+                "cook"                  : "25 minutes",
+                "total"                 : "",
+                "ingredients_markdown"  : "\n* 1 large egg\n* 2 1/2 tablespoons ice water\n* 1 1/2 cups all-purpose flour\n* 1/2 teaspoon sea salt\n* 10 tablespoons unsalted butter, sliced into small cubes",
+                "directions_markdown"   : "\n1. In a small mixing bowl, whisk together the egg and ice water. Set the bowl aside.\n2. In the bowl of a food processor, add the flour and salt. Pulse briefly until mixed.  Add in the the cubed butter pieces and pulse until the mixture resembles coarse meal. Add in the egg/ice-water mixture. Pulse again until a dough forms.\n3. Transfer the dough onto a lightly-floured board. Roll out the quiche crust so that it fits the measurements of your quiche pan or dish. Lay the rolled out dough onto the top of the quiche pan. Using your hands, gently press the dough into place. With a paring knife, slice off any extra dough that’s hanging over the rim of the pan or dish.\n4. Stick the quiche pan with the dough into the freezer for approximately 20-25 minutes (but if you leave it in there a bit longer, that’s fine too). For a flaky quiche crust it’s important that the crust is cold when it’s filled and cooked.\n5. Fill your crust with some delicious quiche and bake!",
+                "notes"                 : ""
+            }
+      },
+	{
+            "id"                : "/sweets/2019/11/11/buttercream",            
+            "title"             : "Buttercream Frosting",
+            "categories"        : ["Sweets"],
+            "featured_image"    : "https://robyn.recipes/images/cupcakes.jpg",
+            "url"               : "/sweets/2019/11/11/buttercream/",
+            "path"              : "_posts/2019-11-11-buttercream.md",
+            "next"              : "/baking/2019/11/11/flaky-quiche-crust",
+            "previous"          : "/vegetarian/2019/10/17/potato-leek-soup",
+            "date"              : "2019-11-11 00:00:00 +0000",
+            "shortdate"         : "November 11, 2019",
+            "content"           : "This 5 ingredient buttercream frosting always comes out so rich and flavorful and it’s so much better than the frosting you can buy at the store. I have used it several times with boxed cake mix (I know, I need to try making my own!) to whip up a quick batch of cupcakes.\n",
+            "excerpt"           : "This 5 ingredient buttercream frosting always comes out so rich and flavorful and it’s so much better than the frosting you can buy at the store. I have used it several times with boxed cake mix (I know, I need to try making my own!) to whip up a quick batch of cupcakes.\n",
+            "recipe"            : {
+                "servings"              : "15 cupcakes",
+                "prep"                  : "10 minutes",
+                "cook"                  : "10 minutes",
+                "total"                 : "",
+                "ingredients_markdown"  : "\n* 1 cup unsalted butter, softened to room temperature\n* 3 cups powdered sugar (360 grams)\n* 2 - 4 tablespoons heavy cream\n* 1 teaspoon vanilla \n* Pinch of salt",
+                "directions_markdown"   : "\n1. Beat the butter until smooth in the bowl of a stand mixer or in a large mixing bowl with a hand electric mixer.\n2. Add the powdered sugar and mix on low speed then increase to medium and continue mixing for a minute or two until the mixture comes together.\n3. Add the heavy cream, starting with 2 tablespoons. I usually add a 3rd or 4th tablespoon of heavy cream to take away some of the powdered sugar flavor and give it a more rich flavor. Also add the vanilla and the salt and mix on medium - high for another minute or two until everything is well combined.\n4. Put into a piping bag for cupcakes or use it to frost a cake!",
+                "notes"                 : ""
+            }
+      },
+	{
+            "id"                : "/vegetarian/2019/10/17/potato-leek-soup",            
+            "title"             : "Potato Leek Soup",
+            "categories"        : ["Vegetarian"],
+            "featured_image"    : "https://robyn.recipes/images/potatoLeekPortrait.jpg",
+            "url"               : "/vegetarian/2019/10/17/potato-leek-soup/",
+            "path"              : "_posts/2019-10-17-potato-leek-soup.md",
+            "next"              : "/sweets/2019/11/11/buttercream",
+            "previous"          : "/vegetarian/2019/10/10/cabbage-soup",
+            "date"              : "2019-10-17 00:00:00 +0000",
+            "shortdate"         : "October 17, 2019",
+            "content"           : "One of my all-time favorites! This is a hearty vegetarian soup that packs a lot of flavor. I love making a loaf of the No-knead crusty white bread to go along with this soup.\n\n\nI always look for thick Leeks with only a little bit of green at the top.\n",
+            "excerpt"           : "One of my all-time favorites! This is a hearty vegetarian soup that packs a lot of flavor. I love making a loaf of the No-knead crusty white bread to go along with this soup.\n\n",
+            "recipe"            : {
+                "servings"              : "6",
+                "prep"                  : "25 minutes",
+                "cook"                  : "1 hour 15 minutes",
+                "total"                 : "",
+                "ingredients_markdown"  : "\n* 1 pound leeks, cleaned and dark green sections removed, approximately 4 to 5 medium\n* 3 tablespoons unsalted butter\n* Heavy pinch kosher salt, plus additional for seasoning\n* 5 yukon gold potatoes, peeled and diced small\n* 1 quart vegetable broth/stock (or chicken broth)\n* 1 cup heavy cream\n* 1 - 1 1/2 cups buttermilk\n* 1/2 teaspoon white pepper\n* 1 tablespoon snipped chives",
+                "directions_markdown"   : "\n1. Chop the leeks into small pieces. Rinse any lingering dirt off of the leeks that appears while chopping them; I throw them in a colander and toss them around under running water.\n2. In a 6-quart saucepan over medium heat, melt the butter. Add the leeks and a     heavy pinch of salt and sweat for 5 minutes. Decrease the heat to medium-low and cook until the leeks are tender, approximately 25 minutes, stirring occasionally.\n3. Add the potatoes and the vegetable broth, increase the heat to medium-high, and bring to a boil. Reduce the heat to low, cover, and gently simmer until the potatoes are soft, approximately 45 minutes.\n4. Turn off the heat and puree the mixture with an immersion blender until smooth. 5. Stir in the heavy cream, buttermilk, and white pepper. Taste and adjust seasoning if desired. Sprinkle with chives and serve immediately, or chill and serve cold.",
+                "notes"                 : "\n* This is the best way I have found to clean the leeks. I usually do one leek at a time after I've chopped it.\nJust throw it into the colander and separate all of the pieces under running water.\n\n\n\n* You can also substitue chicken broth for the vegetable broth. Some vegetable broths and stocks are very dark and can give the soup a darker, browner color. I used vegetable stock in the main picture on this recipe, which gave it a browner color. I have made this using chicken stock and it does come out lighter, with more green coming through from the leeks. Below is a pic of when I made it with chicken broth:\n\n"
+            }
+      },
+	{
+            "id"                : "/vegetarian/2019/10/10/cabbage-soup",            
+            "title"             : "Spicy Cabbage Soup",
+            "categories"        : ["Vegetarian"],
+            "featured_image"    : "https://robyn.recipes/images/cabbageSoup.jpg",
+            "url"               : "/vegetarian/2019/10/10/cabbage-soup/",
+            "path"              : "_posts/2019-10-10-cabbage-soup.md",
+            "next"              : "/vegetarian/2019/10/17/potato-leek-soup",
+            "previous"          : "/baking/2019/10/10/banana-bread",
+            "date"              : "2019-10-10 00:00:00 +0000",
+            "shortdate"         : "October 10, 2019",
+            "content"           : "This Spicy Vegetarian Cabbage Soup recipe is chock-full of healthy veggies, it’s naturally vegan and gluten-free, and so hearty and delicious!\n",
+            "excerpt"           : "This Spicy Vegetarian Cabbage Soup recipe is chock-full of healthy veggies, it’s naturally vegan and gluten-free, and so hearty and delicious!\n",
+            "recipe"            : {
+                "servings"              : "6",
+                "prep"                  : "30 minutes",
+                "cook"                  : "60 minutes",
+                "total"                 : "",
+                "ingredients_markdown"  : "\n* 1 tablespoon olive oil\n* 1 medium white onion, peeled and diced\n* 6 cloves garlic, peeled and minced\n* 6 cups vegetable stock\n* 2 medium carrots, diced\n* 1 stalk celery, diced\n* 1 pound Yukon gold potatoes, diced\n* 2 (10-ounce) cans fire-roasted diced tomatoes and green chiles (or simply   * fire-roasted tomatoes, for a milder soup)\n* 1 (15-ounce) jar roasted red peppers, drained and chopped\n* 1 (15-ounce) can Great Northern beans, rinsed and drained\n* 1 small green cabbage, roughly chopped\n* 1 1/2 teaspoons ground cumin\n* 1/2 teaspoon crushed red pepper flakes (or more/less, to taste)\n* 2 handfuls baby spinach or kale\n* Kosher salt and freshly-cracked black pepper, to taste\n* optional toppings: chopped fresh cilantro or parsley",
+                "directions_markdown"   : "\n1. Heat oil in a large stockpot over medium-high heat.  Add onion and sauté for 5 minutes, stirring occasionally, until softened.  Stir in garlic and sauté for 1-2 more minutes, stirring occasionally, until fragrant.\n2. Add in the vegetable stock, carrots, celery, potatoes, tomatoes and green chiles, roasted red peppers, beans, cabbage, cumin, crushed red pepper flakes, and stir to combine.  Continue cooking until the soup reaches a simmer.  Then reduce heat to medium-low, cover, and cook for 20-30 minutes, until the vegetables are tender.\n3. Stir in the greens until combined.  Then taste and season the soup with salt and pepper as needed.\n4. Serve warm, garnished with toppings if desired.",
+                "notes"                 : ""
+            }
+      },
+	{
+            "id"                : "/baking/2019/10/10/banana-bread",            
+            "title"             : "Banana Bread",
+            "categories"        : ["Baking"],
+            "featured_image"    : "https://robyn.recipes/images/bananaBread2.jpg",
+            "url"               : "/baking/2019/10/10/banana-bread/",
+            "path"              : "_posts/2019-10-10-banana-bread.md",
+            "next"              : "/vegetarian/2019/10/10/cabbage-soup",
+            "previous"          : "/vegetarian/2019/10/09/veggie-pot-pie",
+            "date"              : "2019-10-10 00:00:00 +0000",
+            "shortdate"         : "October 10, 2019",
+            "content"           : "This is so easy but super delicious! Goes perfect with a cup of coffee in the morning.\n",
+            "excerpt"           : "This is so easy but super delicious! Goes perfect with a cup of coffee in the morning.\n",
+            "recipe"            : {
+                "servings"              : "8",
+                "prep"                  : "15 minutes",
+                "cook"                  : "50 minutes",
+                "total"                 : "",
+                "ingredients_markdown"  : "\n* 1 Stick (1/2 Cup) Butter\n* 3 Large Ripe Bananas\n* 2 Large Eggs\n* 1 teaspoon Vanilla Extract\n* 2 Cups All Purpose Flour\n* 1 Cup Granulated Sugar\n* 1 teaspoon Baking Soda\n* 1/2 teaspoon salt\n* 1/2 teaspoon cinnamon",
+                "directions_markdown"   : "\n1. Preheat oven to 350 degrees. Spray a loaf pan with non-stick cooking spray or grease with butter and set aside.\n2. Add the stick of butter to a large bowl and microwave for 1 minute, or until melted.\n3. Add the bananas to the same bowl and mash with a fork.\n4. Add the vanilla extract and egg to the bowl and use the same fork to mash and stir until no yellow streaks of egg remain.\n5. In a second large bowl whisk together the flour, sugar, baking soda, salt, and cinnamon.\n6. Add the dry ingredients to the wet ingredients and mix together with a spatula just until combined.\n7. Pour the batter into prepared loaf pan and bake for 45-55 minutes until a toothpick inserted in the center of the bread comes out clean.",
+                "notes"                 : ""
+            }
+      },
+	{
+            "id"                : "/vegetarian/2019/10/09/veggie-pot-pie",            
+            "title"             : "Vegetable Pot Pie",
+            "categories"        : ["Vegetarian"],
+            "featured_image"    : "https://robyn.recipes/images/veggiePotPie.jpg",
+            "url"               : "/vegetarian/2019/10/09/veggie-pot-pie/",
+            "path"              : "_posts/2019-10-09-veggie-pot-pie.md",
+            "next"              : "/baking/2019/10/10/banana-bread",
+            "previous"          : "/baking/2019/10/09/naan-bread",
+            "date"              : "2019-10-09 00:00:00 +0000",
+            "shortdate"         : "October 09, 2019",
+            "content"           : "You won’t be missing meat with these hearty vegetables!\n\n\nI made personal pot pies using 2 small pie dishes. I also only put a crust on the top to save some calories :p\n",
+            "excerpt"           : "You won’t be missing meat with these hearty vegetables!\n\n",
+            "recipe"            : {
+                "servings"              : "6",
+                "prep"                  : "15 minutes",
+                "cook"                  : "40 minutes",
+                "total"                 : "",
+                "ingredients_markdown"  : "\n* 1 tablespoon unsalted butter\n* 2 small heads fennel, finely chopped (about 3 cups)\n* 1/2 medium yellow onion, finely chopped\n* 2 medium carrots, peeled and finely chopped (about 2/3 cup)\n* 12 ounces white button mushrooms, sliced (about 5 cups)\n* 1 small russet potato, peeled and diced small (about 2 1/2 cups)\n* 1/4 cup all-purpose flour\n* 1 cup low-sodium mushroom broth\n* 1 cup whole milk\n* 1 cup frozen baby green peas\n* 1/4 cup thinly sliced fresh chives\n* 1/4 cup parsley\n* 1 tablespoon white vinegar\n* 1 large egg yolk\n* 7 ounces store-bought puff pastry or pie dough, defrosted if frozen",
+                "directions_markdown"   : "\n1. Heat the oven to 400 degrees F and arrange a rack in the middle.\n2. Melt butter over medium heat in a 3- to 4-quart Dutch oven or heavy bottomed saucepan. When it foams, add fennel, onions, and carrots, and cook until just soft and onions are translucent, about 2 minutes. Add mushrooms and potato, season well with salt and freshly ground black pepper, and stir to coat. Cook, stirring rarely, until mushrooms have let off water and are shrunken, about 6 minutes.\n3. Sprinkle flour over vegetables, stir to coat, and cook until raw flavor is gone, about 1 to 2 minutes. Carefully add broth and milk, stirring constantly until mixture is smooth. Bring to a simmer over medium heat and cook until slightly thickened, about 5 minutes.\n4. Remove from heat, add peas, herbs, and vinegar, and stir to coat. Season well with salt and freshly ground black pepper. Turn filling into an 8 by 8-inch baking dish.\n5. Whisk egg together with 2 teaspoons water and a pinch of salt until evenly mixed. Set aside.\n6. With kitchen shears, cut dough to fit over the baking dish. Place dough over filling and tuck into the edges of the dish. Brush dough with egg wash and cut slits in the top to vent. Place on a baking sheet and bake until crust is golden brown and mixture is bubbling, about 25 to 30 minutes. Let sit at least 5 minutes before serving.",
+                "notes"                 : ""
+            }
+      },
+	{
+            "id"                : "/baking/2019/10/09/naan-bread",            
+            "title"             : "Homemade Naan Bread",
+            "categories"        : ["Baking"],
+            "featured_image"    : "https://robyn.recipes/images/naan.jpg",
+            "url"               : "/baking/2019/10/09/naan-bread/",
+            "path"              : "_posts/2019-10-09-naan-bread.md",
+            "next"              : "/vegetarian/2019/10/09/veggie-pot-pie",
+            "previous"          : "/vegetarian/2019/10/09/chana-masala",
+            "date"              : "2019-10-09 00:00:00 +0000",
+            "shortdate"         : "October 09, 2019",
+            "content"           : "These are perfect along with Chana Masala\n",
+            "excerpt"           : "These are perfect along with Chana Masala\n",
+            "recipe"            : {
+                "servings"              : "6",
+                "prep"                  : "30 minutes",
+                "cook"                  : "20 minutes",
+                "total"                 : "",
+                "ingredients_markdown"  : "\n* 2 cups all purpose flour\n* 3 teaspoons sugar\n* 1 teaspoon instant dry yeast or rapid-rise yeast\n* 1 teaspoon salt\n* Heaping 1/2 teaspoon anise seeds (optional)\n* 3 tablespoons plain yogurt\n* 2 tablespoons extra virgin olive oil\n* 2 tablespoons melted salted butter\n* 1 tablespoon chopped fresh Italian parsley, for serving",
+                "directions_markdown"   : "\n1. In a large bowl, whisk together the flour, sugar, yeast, salt and anise seeds (if using). Set aside.\n2. In a medium bowl, whisk together, the yogurt, olive oil, and 3/4 cup warm water (about 100°F). Add the yogurt mixture to the dry ingredients and mix with a fork. When the dough is about to come together, dust your hands with flour and knead gently into a soft, slightly sticky dough. As soon as it comes together, stop kneading.\n3. Lightly oil or spray a clean bowl with nonstick cooking spray (the bowl should be large enough to allow the dough to double in size). Transfer the dough to the prepared bowl and cover with plastic wrap or a damp kitchen towel. Let sit in a warm place for 1 to 1.5 hours, or until about doubled in size (hint: the warmer the spot, the faster the dough will rise).\n4. Fill a small bowl with about 1/2 cup flour. Dust a work surface with some of the flour and dump the dough on top. Sprinkle some of the flour on top of the dough and on your hands. Shape the dough into a long rectangle and cut into 6 equal portions, dusting with more flour as necessary so the dough doesn't stick. Roll each portion of dough in the bowl of flour to keep them from sticking.\n5. arm a large cast iron or heavy nonstick pan over medium-high heat until very hot. Using a rolling pin, roll one of the dough balls into an oval shape about 1/8-inch thick (it should be about 9 x 4 inches). Pick up the dough and flip-flop it back and forth between your hands to release any excess flour; then gently lay the dough in the dry skillet and cook until the top is bursting with air bubbles and the bottom is golden and blackened in spots, a few minutes. Flip the naan and cook about 1-2 minutes more until the the bottom is lightly browned and blistered in spots. Remove the naan from the skillet and brush with melted butter. Place the naan in a tea towel-lined dish to keep warm. Repeat with the remaining naans, adjusting the heat lower if necessary as you go (I usually find it necessary to lower the heat to medium after the first naan). Sprinkle with parsley, if using, and serve warm.\n\nTo keep the cooked naan warm, place them in a 200°F oven. Store leftovers in a Ziplock bag and reheat in a 350°F oven wrapped in foil.",
+                "notes"                 : ""
+            }
+      },
+	{
+            "id"                : "/vegetarian/2019/10/09/chana-masala",            
+            "title"             : "Chana Masala",
+            "categories"        : ["Vegetarian"],
+            "featured_image"    : "https://robyn.recipes/images/chanaMasala.jpg",
+            "url"               : "/vegetarian/2019/10/09/chana-masala/",
+            "path"              : "_posts/2019-10-09-chana-masala.md",
+            "next"              : "/baking/2019/10/09/naan-bread",
+            "previous"          : "/dinners/vegetarian/2019/10/06/enchiladas",
+            "date"              : "2019-10-09 00:00:00 +0000",
+            "shortdate"         : "October 09, 2019",
+            "content"           : "I got to try a lot of fun, new ingredients making this.\n",
+            "excerpt"           : "I got to try a lot of fun, new ingredients making this.\n",
+            "recipe"            : {
+                "servings"              : "6",
+                "prep"                  : "5 minutes",
+                "cook"                  : "25 minutes",
+                "total"                 : "",
+                "ingredients_markdown"  : "\n* 3 Tbsp grape seed oil (or sub coconut oil)\n* 1 medium white or yellow onion, finely diced\n* 1 Tbsp ground cumin\n* 3/4 tsp sea salt (divided // plus more to taste)\n* 6 cloves garlic, minced (6 cloves yield ~3 Tbsp)\n* 2 Tbsp fresh ginger, minced\n* 1/2 cup fresh cilantro, chopped\n* 2-3 fresh green chilies, sliced with seeds (I used serrano peppers)\n* 1 Tbsp ground coriander\n* 1 tsp chili powder\n* 1 tsp ground turmeric\n* 1 28-ounce can pureed or finely diced tomatoes\n* 2 15-ounce cans chickpeas, slightly drained\n* 1 tsp garam masala* (see instructions for DIY blend)\n* 2-3 tsp coconut sugar\n* 2 Tbsp lemon juice (plus more to taste)",
+                "directions_markdown"   : "\n1. Heat a large pot over medium heat. Once hot, add oil, onion, cumin, and one-third of the salt (1/4 tsp as original recipe is written // adjust if altering batch size).\n2. Add garlic, ginger, cilantro, and green chilies to a mortar and pestle and grind into a rough paste (or use a small food processor to pulse into a paste. Alternatively, just finely mince.) Then, add to the pan with the onions.\n3. Next add ground coriander, chili powder, and turmeric and stir to coat. Add a little more oil at this point if the pan is looking dry.\n4. Next add pureed tomatoes and chickpeas and remaining salt (1/2 tsp as original recipe is written). If the mixture looks a little too thick, add up to 1 cup (240 ml) water (I added ~1/2 cup (120 ml) // amount as original recipe is written // adjust if altering batch size). You’re looking for a semi-thick soup consistency at this point, as it will cook down into more of a stew.\n5. Increase heat to medium high until it reaches a rolling simmer, then reduce heat to low or medium-low and maintain a simmer (uncovered) for 15-20 minutes, or until thick and stew-like. Stir occasionally.\n6. In the meantime, if you don’t have garam masala seasoning, make your own by adding (amounts as original recipe is written // adjust if altering batch size) 2 small dried red chilies, 1 tsp black peppercorns (or 1/2 tsp ground black pepper), 1 tsp cumin seeds (or 1/2 tsp ground cumin), 1 tsp cardamom pods (or 1/2 tsp ground cardamom), 1/2 tsp cloves (or 1/4 tsp ground cloves), and 1/8 tsp nutmeg to a mortar and pestle or spice grinder and grind/mix into a powder. Set aside.\n7. When the chana masala is thickened and bubbly, taste and adjust seasonings as needed, adding more salt for saltiness, chili powder for heat, or a bit of coconut sugar for sweetness and to offset the heat of the chilies.\n8. Remove from heat and add lemon juice and garam masala. Stir to mix, then let cool slightly before serving. Fresh cilantro and lemon juice make an excellent garnish. \n\nCredit: https://minimalistbaker.com/easy-chana-masala/",
+                "notes"                 : ""
+            }
+      },
+	{
+            "id"                : "/dinners/vegetarian/2019/10/06/enchiladas",            
+            "title"             : "Bean and Cheese Enchiladas",
+            "categories"        : ["Dinners","Vegetarian"],
+            "featured_image"    : "https://robyn.recipes/images/enchiladasDone.jpg",
+            "url"               : "/dinners/vegetarian/2019/10/06/enchiladas/",
+            "path"              : "_posts/2019-10-06-enchiladas.md",
+            "next"              : "/vegetarian/2019/10/09/chana-masala",
+            "previous"          : "/dinners/2019/09/24/general-tso-chicken",
+            "date"              : "2019-10-06 00:00:00 +0000",
+            "shortdate"         : "October 06, 2019",
+            "content"           : "One of my favorite Vegetarian meals! This is great with homemade tortillas as well!\n\n\nFresh chopped veggies help make a flavorful sauce\n\n\nMake sure to use a dish large enough to fit the folded tortillas\n\n\nDon’t forget to put lots of extra cheese on the top!\n",
+            "excerpt"           : "One of my favorite Vegetarian meals! This is great with homemade tortillas as well!\n\n",
+            "recipe"            : {
+                "servings"              : "6",
+                "prep"                  : "40 minutes",
+                "cook"                  : "1 hour",
+                "total"                 : "",
+                "ingredients_markdown"  : "\n* 2 tablespoons extra-virgin olive oil \n* 1 large yellow onion, chopped \n* 2 bell peppers, chopped \n* 2 cloves garlic, minced \n* 1 jalapeño, seeded and chopped \n* 1 tablespoon chili powder \n* 1 teaspoon cumin \n* Pinch of crushed red pepper \n* 1 teaspoon smoked paprika \n* 1/2 teaspoon dried Mexican oregano \n* 1 teaspoon sugar Kosher salt \n* Fresh ground black pepper \n* 1 28-ounce can diced tomatoes  \n* 1 15-ounce can dark red kidney beans\n* 1 15-ounce can black beans \n* 6 eight-inch corn or flour tortillas \n* 12 ounces shredded Monterey jack cheese\n* 3/4 cup juice from orange (2 oranges)",
+                "directions_markdown"   : "\n1. Preheat oven to 350º. In a large saucepan, heat the olive oil. Cook the onion and bell peppers over moderate heat until soft and translucent, about 5 to 7 minutes. Add the garlic, jalapeño, chili powder, cumin, crushed red pepper, paprika, oregano, sugar, salt and pepper and cook, stirring, for 1 minute. Stir in the tomatoes and remove from heat. Set aside 1 cup of the tomato mixture. Blend the remaining mixture in a food processor or blender until smooth. Return the tomato mixture to heat and simmer for 20 minutes.  2. Place the reserved 1 cup of sauce in a large bowl. Stir in the 2 cans of beans and 2 cups of cheese.\n3. Wrap the tortillas in a damp paper towel and warm them in a microwave oven until soft and pliable, about 1 minute.\n4. Spread a thin layer of sauce on the bottom of a 9-by-13-inch glass baking dish. Arrange the tortillas on a work surface. Spoon about 3/4 cup of the bean mixture onto each tortilla. Roll up the tortillas and arrange them in the baking dish. Top the tortillas evenly with the remaining sauce. Sprinkle the tops of the enchiladas with the remaining cup of cheese. Bake for 15 to 20 minutes, until the enchiladas are hot and the cheese is melted.\n5. Serve warm with sour cream, jalapeños, lime wedges and minced green onions.",
+                "notes"                 : ""
+            }
+      },
+	{
+            "id"                : "/dinners/2019/09/24/general-tso-chicken",            
+            "title"             : "General Tso's Chicken",
+            "categories"        : ["Dinners"],
+            "featured_image"    : "https://robyn.recipes/images/generalTsosChicken.jpg",
+            "url"               : "/dinners/2019/09/24/general-tso-chicken/",
+            "path"              : "_posts/2019-09-24-general-tso-chicken.md",
+            "next"              : "/dinners/vegetarian/2019/10/06/enchiladas",
+            "previous"          : "/dinners/2019/09/24/carnitas",
+            "date"              : "2019-09-24 00:00:00 +0000",
+            "shortdate"         : "September 24, 2019",
+            "content"           : "This general tso’s chicken is one of my favorites! The sauce has the perfect take-out General Tos’s flavor and the coating gives it a nice fried crunch!\n",
+            "excerpt"           : "This general tso’s chicken is one of my favorites! The sauce has the perfect take-out General Tos’s flavor and the coating gives it a nice fried crunch!\n",
+            "recipe"            : {
+                "servings"              : "5",
+                "prep"                  : "30 minutes",
+                "cook"                  : "15 minutes",
+                "total"                 : "",
+                "ingredients_markdown"  : "**Chicken**\n\n* 1/2 cup hoisin sauce\n* 1/4 cup rice vinegar\n* 3 Tbsp low-sodium soy sauce\n* 3 Tbsp packed brown sugar\n* 2 Tbsp cornstarch\n* 1 1/2 cups chicken broth\n* 1 1/2 lbs boneless skinless chicken breasts , diced into 1-inch pieces\n* 1 Tbsp vegetable oil\n* 2 green onions , sliced, greens and whites divided\n* 4 cloves garlic , minced\n* 2 Tbsp finely grated fresh ginger\n* 1/2 tsp red pepper flakes , or to taste\n\n**Coating**\n\n* 3 egg whites\n* 1 1/2 cups cornstarch\n* 1/2 cup all-purpose flour\n* 1/2 tsp baking soda\n* Salt and white or black pepper , as desired\n* 4 cups vegetable oil , for frying",
+                "directions_markdown"   : "\n1. In a mixing bowl, whisk together hoisin sauce, rice vinegar, soy sauce, brown sugar, 2 Tbsp cornstarch and the chicken broth. Place chicken in a large Ziploc bag and pour 6 Tbsp of the hoisin mixture over chicken, seal bag and allow to marinate in refrigerator 30 minutes.\n2. Meanwhile, in a large skillet, heat 1 Tbsp vegetable oil over medium heat. Once hot, add chopped whites of green onions, garlic, ginger and red pepper flakes and saute 1 minute. Add 2 cups of hoisin sauce mixture (reserve remaining little bit) to skillet, season with salt and white pepper to taste (you may not even need salt) and cook, stirring constantly until mixture has thickened. Remove from heat, cover with lid.\n3. In a shallow dish, vigorously whisk egg whites until foamy, set aside. In a separate shallow dish, whisk together cornstarch, flour and baking soda, then add remaining hoisin sauce mixture and stir until mixture resembles coarse meal.\n4. Heat 4 cups oil in a dutch oven over medium heat to 350 degrees F. \n5. MMeanwhile, remove chicken from refrigerator and remove chicken from marinade, shaking off excess marinade, and transfer to a large plate lined with several paper towels. Cover with more paper towels and pat dry. \n6. Place half of the chicken into the egg whites and toss to coat, then lift and allow excess to run off and immediately transfer to cornstarch mixture. Toss in cornstarch mixture (separating pieces as they stick together or working with just a few at a time) to evenly coat then transfer to a plate and repeat coating process with remaining chicken. \n7. Fry coated chicken in batches in hot oil (I did three batches for all of the chicken, just so it's not overcrowded and dropping the oil temperature), until chicken is golden brown and has cooked through, about 3 - 4 minutes, turning chicken once during frying. Transfer to a paper towel lined plate to drain and repeat frying process with remaining chicken.\n8. Warm sauce over medium-low heat until heated through. Place chicken in a large bowl and toss with warm sauce to evenly coat. Serve warm topped with sliced green onions and optional sesame seeds if desired.",
+                "notes"                 : ""
+            }
+      },
+	{
+            "id"                : "/dinners/2019/09/24/carnitas",            
+            "title"             : "Pork Carnitas",
+            "categories"        : ["Dinners"],
+            "featured_image"    : "https://robyn.recipes/images/carnitas.jpg",
+            "url"               : "/dinners/2019/09/24/carnitas/",
+            "path"              : "_posts/2019-09-24-carnitas.md",
+            "next"              : "/dinners/2019/09/24/general-tso-chicken",
+            "previous"          : "/baking/2019/09/22/basic-crusty-bread",
+            "date"              : "2019-09-24 00:00:00 +0000",
+            "shortdate"         : "September 24, 2019",
+            "content"           : "This is another one of my favorites; it’s super easy and the slow cooker does most of the work!\nThese go perfect with yellow rice and homemade tortillas.\n",
+            "excerpt"           : "This is another one of my favorites; it’s super easy and the slow cooker does most of the work!\nThese go perfect with yellow rice and homemade tortillas.\n",
+            "recipe"            : {
+                "servings"              : "5",
+                "prep"                  : "30 minutes",
+                "cook"                  : "15 minutes",
+                "total"                 : "",
+                "ingredients_markdown"  : "\n* 2 kg / 4 lb pork shoulder (pork butt) , skinless, boneless (5lb/2.5kg bone in)\n* 2 1/2 tsp salt\n* 1 tsp black pepper\n* 1 onion , chopped\n* 1 jalapeno , deseeded, chopped\n* 4 cloves garlic, minced\n* 3/4 cup juice from orange (2 oranges)\n\n**Rub**\n\n* 1 tbsp dried oregano\n* 2 tsp ground cumin\n* 1 tbsp olive oil",
+                "directions_markdown"   : "\n1. Rinse and dry the pork shoulder, rub all over with salt and pepper.\n2. Combine the Rub ingredients then rub all over the pork.\n3.Place the pork in a slow cooker (fat cap up), top with the onion, jalapeño, minced garlic (don't worry about spreading it) and squeeze over the juice of the oranges.\n4. Slow Cook on low for 10 hours or on high for 6 hours. (Note 2 for other cook methods)\n5. Pork should be tender enough to shred. Remove from slow cooker and let cool slightly. Then shred using two forks.\n6. Optional: Skim off the fat from the juices remaining in the slow cooker and discard. If you have a lot more than 2 cups of juice, then reduce it down to about 2 cups. The liquid will be salty, it is the seasoning for the pork. Set liquid aside - don't bother straining onion etc, it's super soft.",
+                "notes"                 : ""
+            }
+      },
+	{
+            "id"                : "/baking/2019/09/22/basic-crusty-bread",            
+            "title"             : "No-Knead Crusty White Bread",
+            "categories"        : ["Baking"],
+            "featured_image"    : "https://robyn.recipes/images/basicBread.jpg",
+            "url"               : "/baking/2019/09/22/basic-crusty-bread/",
+            "path"              : "_posts/2019-09-22-basic-crusty-bread.md",
+            "next"              : "/dinners/2019/09/24/carnitas",
+            "previous"          : "/dinners/2019/09/15/red-wine-braised-shortribs",
+            "date"              : "2019-09-22 00:00:00 +0000",
+            "shortdate"         : "September 22, 2019",
+            "content"           : "\n",
+            "excerpt"           : "\n",
+            "recipe"            : {
+                "servings"              : "1 loaf",
+                "prep"                  : "5 mins",
+                "cook"                  : "30 to 40 mins",
+                "total"                 : "3 - 4 hours",
+                "ingredients_markdown"  : "\n* 1 cup warm water\n* 1 teapsoon Kosher salt\n* 2 1/2 - 3 cups flour (305g)\n* 1/2 tablespoon instant yeast",
+                "directions_markdown"   : "\n1. Combine all of the ingredients in a large mixing bowl, or a large (5 quart) stand mixer bowl. I usually make sure the water temperature is around 110°F. The water should feel warm but not too hot.\n2. Mix and stir everything together to make a very sticky, rough dough. If you have a stand mixer, beat at medium speed with the beater blade for 30 to 60 seconds. If you don't have a mixer, just stir-stir-stir with a big spoon or dough whisk until everything is combined.\n3. Next, you're going to let the dough rise. If you've made the dough in a large stand mixer bowl, you're all set — just let it stay there, covering the bucket with a towel or plastic wrap. If you've made the dough in a bowl that's not at least 5-quart capacity, transfer it to a large bowl; it's going to rise a lot. There's no need to grease the bowl, though you can if you like; it makes it a bit easier to get the dough out when it's time to bake bread.\n4. Cover the bowl or bucket, and let the dough rise at room temperature for 2 hours. Then refrigerate it for at least 2 hours, or for up to about 7 days. (If you're pressed for time, skip the room-temperature rise, and stick it right into the fridge). The longer you keep it in the fridge, the tangier it'll get; if you chill it for 7 days, it will taste like sourdough. Over the course of the first day or so, it'll rise, then fall. That's OK; that's what it's supposed to do.\n5. When you're ready to make bread, sprinkle the top of the dough with flour and plop the sticky dough onto a floured work surface, and round it into a ball, or a longer log. Don't fuss around trying to make it perfect; just do the best you can.\n6. Place the loaf on a piece of parchment (if you're going to use a baking stone); or onto a lightly greased or parchment-lined baking sheet. Sift a light coating of flour over the top; this will help keep the bread moist as it rests before baking.\n7. Let the loaf warm to room temperature and rise; this should take about 60 minutes (or longer, up to a couple of hours, if your house is cool). It won't appear to rise upwards that much; rather, it'll seem to settle and expand. Preheat your oven to 450°F while the loaf rests. If you're using a baking stone, position it on a middle rack while the oven preheats. Place a shallow metal or cast iron pan (not glass, Pyrex, or ceramic) on the lowest oven rack, and have 1 cup of hot water ready to go.\n8. When you're ready to bake, take a sharp knife and slash the bread 2 or 3 times, making a cut about 1/2\" deep. The bread may deflate a bit; that's OK, it'll pick right up in the hot oven.\n9. Place the bread in the oven — onto the baking stone, if you're using one, or simply onto a middle rack, if it's on a pan — and carefully pour the 1 cup hot water into the shallow pan on the rack beneath. It'll bubble and steam; close the oven door quickly.\n10. Bake the bread for 25 to 35 minutes, until it's a deep, golden brown.\n11. Remove the bread from the oven, and cool it on a rack. Store leftover bread in a plastic bag at room temperature.",
+                "notes"                 : ""
+            }
+      },
+	{
+            "id"                : "/dinners/2019/09/15/red-wine-braised-shortribs",            
+            "title"             : "Red Wine Braised Short Ribs",
+            "categories"        : ["Dinners"],
+            "featured_image"    : "https://robyn.recipes/images/braisedShortribs.jpg",
+            "url"               : "/dinners/2019/09/15/red-wine-braised-shortribs/",
+            "path"              : "_posts/2019-09-15-red-wine-braised-shortribs.md",
+            "next"              : "/baking/2019/09/22/basic-crusty-bread",
+            "previous"          : "",
+            "date"              : "2019-09-15 00:00:00 +0000",
+            "shortdate"         : "September 15, 2019",
+            "content"           : "My favorite way to serve this is with creamy mashed potatoes and steamed green beans!\n",
+            "excerpt"           : "My favorite way to serve this is with creamy mashed potatoes and steamed green beans!\n",
+            "recipe"            : {
+                "servings"              : "8",
+                "prep"                  : "1 hour",
+                "cook"                  : "3 - 4 hours",
+                "total"                 : "",
+                "ingredients_markdown"  : "\n* 25 pounds bone-in beef short ribs, cut crosswise into 2-inch pieces\n* Kosher salt\n* Fresh ground black pepper\n* 3 tablespoons vegetable oil\n* 3 medium onions, chopped\n* 3 medium carrots, peeled, chopped\n* 2 celery stalks, chopped\n* 3 tablespoons all-purpose flour\n* 2 tablespoons tomato paste\n* 1 750 ml bottle dry red wine (preferably Cabernet Sauvignon)\n* 10 sprigs parsley\n* 8 sprigs thyme\n* 4 sprigs oregano\n* 2 sprigs rosemary\n* 2 fresh or dried bay leaves\n* 1 head of garlic, halved crosswise\n* 4 cups low-salt beef stock\n* Beef boullion (for extra beefy flavor)",
+                "directions_markdown"   : "\n1. Preheat oven to 350°. Season short ribs with salt and pepper. Heat oil in a large Dutch oven over medium-high. Working in 2 batches, brown short ribs on all sides, about 8 minutes per batch. Transfer short ribs to a plate. Pour off all but 3 Tbsp. drippings from pot.\n2. Add onions, carrots, and celery to pot and cook over medium-high heat, stirring often, until onions are browned, about 5 minutes. Add flour and tomato paste; cook, stirring constantly, until well combined and deep red, 2-3 minutes. Stir in wine, then add short ribs with any accumulated juices. Bring to a boil; lower heat to medium and simmer until wine is reduced by half, about 25 minutes. Add all herbs to pot along with garlic. Stir in stock. Bring to a boil, cover, and transfer to oven.\n3. Cook until short ribs are tender, 2–2½ hours. Transfer short ribs to a platter. Strain sauce from pot into a measuring cup. Spoon fat from surface of sauce and discard; season sauce to taste with salt and pepper. Serve in shallow bowls over mashed potatoes with sauce spooned over.",
+                "notes"                 : ""
+            }
+      }
+	
+    ]
+}

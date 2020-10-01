@@ -16,14 +16,8 @@ $ bundle exec jekyll serve
 
 ## Deployment
 
-To generate the complete static site locally in the \_site folder, run:
+To generate the complete static site locally, run:
 
 ```bash
-$ bundle exec jekyll build
-```
-
-To deploy to production and push to all remotes, run:
-
-```bash
-$ ./deploy.sh
+$ bundle exec jekyll build --destination docs/
 ```
