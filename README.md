@@ -19,5 +19,7 @@ $ bundle exec jekyll serve
 To generate the complete static site locally, run:
 
 ```bash
-$ bundle exec jekyll build --destination docs/
+bundle exec jekyll build --destination docs/
 ```
+
+Then commit and push to master.
